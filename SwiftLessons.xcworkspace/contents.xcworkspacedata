@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../Desktop/iOS/SwiftLessons/Lesson2">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftLessons/Lesson1.playground">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftLessons/Lesson2/Lesson2.playground">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftLessons/Lesson1/Lesson1.playground">
+   </FileRef>
+</Workspace>
