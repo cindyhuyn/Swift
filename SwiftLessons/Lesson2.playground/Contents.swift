@@ -1,5 +1,6 @@
 
 //import UIKit
+//SwiftUI Lesson 2 - Class, Array, Struct
 
 //important note: structs act like instances, whereas classes act like they have static var and funcs within them.
 struct Cow {
