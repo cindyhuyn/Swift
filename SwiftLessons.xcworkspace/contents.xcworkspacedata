@@ -2,15 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:../../Desktop/iOS/SwiftLessons/Lesson2">
-   </FileRef>
-   <FileRef
       location = "group:SwiftLessons/Lesson1.playground">
    </FileRef>
    <FileRef
-      location = "group:SwiftLessons/Lesson2/Lesson2.playground">
-   </FileRef>
-   <FileRef
-      location = "group:SwiftLessons/Lesson1/Lesson1.playground">
+      location = "group:SwiftLessons/Lesson2.playground">
    </FileRef>
 </Workspace>
