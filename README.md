@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=HJDCXdhQaP0&t=438s
 For the swift lessons, I learned how 
 to implement
 * Lesson 1 - SwiftUI func
-* Lesson 2 - Class, Array, Struct\
+* Lesson 2 - Class, Array, Struct
 
 The next step should be learning how 
 to create simple apps, such as an 
@@ -35,7 +35,7 @@ instrument, a to do list, using midi
 player or audio files, bingo app, 
 and/or war card game (pick two random 
 cards, keep score)
-\
+
 * Xylophone - How to make a xylophone app in ios - 
 Swift 5 Xcode 11 
 https://www.youtube.com/watch?v=8NsVZr2DvAs
